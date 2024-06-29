@@ -1,0 +1,11 @@
+{
+    "headers_file": "headers.json",
+    "output_file": "danmaku.txt",
+    "steps": [
+        "fetch_danmaku",
+        "user_behavior_analysis",
+        "sentiment_analysis",
+        "wordcloud_generation",
+        "content_analysis"
+    ]
+}
